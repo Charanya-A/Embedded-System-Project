@@ -1,3 +1,12 @@
-# Embedded-System-Project
 # Real-Time LPG Leakage Detection System using MQ-5 sensor and Arduino UNO
-Designed a real-time LPG leakage detection system using an MQ-5 sensor and Arduino UNO. The system monitors gas levels and sends SMS/calls via a GSM module. Integrated a servo motor for automatic gas shutoff. Developed and tested for reliability in residential/industrial settings with real-time LCD display monitoring.
+
+## Overview
+
+The LPG Leakage Detection System is a real-time gas detection and alert system using an MQ-5 sensor and Arduino UNO. It helps prevent gas-related accidents by triggering alerts when dangerous levels of LPG are detected.
+
+## Features
+
+- Real-time LPG detection using MQ-5 sensor
+- Audible and visual alarms for leakage alerts
+- Low power consumption and cost-effective design
+- Easy installation and user-friendly interface
