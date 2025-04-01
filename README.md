@@ -19,15 +19,15 @@ The LPG Leakage Detection System is a real-time gas detection and alert system u
 
 ## Software Installation
 
-1. Install Arduino IDE
+1. **Install Arduino IDE**
 - Download and install the Arduino IDE suitable for your operating system.
 
-2. Download Required Libraries
+2. **Download Required Libraries**
 
 - MQ-5 Gas Sensor: Install the library for the MQ-5 sensor from the Arduino Library Manager.
 - LiquidCrystal: Install the LiquidCrystal library for controlling the LCD display.
 
-3. Upload the Code to Arduino UNO
+3. **Upload the Code to Arduino UNO**
 
 - Open the Arduino IDE and load the provided code into the editor.
 - Select the appropriate board (Arduino UNO) and port.
@@ -35,15 +35,15 @@ The LPG Leakage Detection System is a real-time gas detection and alert system u
 
 ## Usage
 
-1. Power on the Device
+1. **Power on the Device**
 
 - Ensure all components are properly connected.
 
-2. Continuous Monitoring of LPG Levels
+2. **Continuous Monitoring of LPG Levels**
 
 - The system will continuously monitor the LPG levels in real-time using the MQ-5 gas sensor.
 
-3. When LPG Leakage is Detected:
+3. **When LPG Leakage is Detected:**
 
 - LCD Display Notification: The system will display an alert on the LCD indicating the detected leakage.
 
